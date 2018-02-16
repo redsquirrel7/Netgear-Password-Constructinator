@@ -1,6 +1,8 @@
 # Netgear-Password-Constructinator
 Generates default wifi passwords for Netgear routers
+
 Written by: Brad Nelson (Squirrel)
+
 Twitter: redsquirrel_7
 
 # Introduciton
