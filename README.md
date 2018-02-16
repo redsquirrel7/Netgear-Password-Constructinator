@@ -10,14 +10,14 @@ NPCinator.py will take the adjectives and nouns from their respective text files
 
 # Usage
 Output to file: 
-'''
+```
 python NPCinator.py > passwords.txt
-'''
+```
 
 Pipe to aircrack-ng:
-'''
+```
 python NPCinator.py | aircrack-ng -a 2 -e ASDF asdf-01.cap -w -
-'''
+```
 
 # Future Feature Plans
 - Add web crawler to crawl dictionary website and create adjective and noun files from all adjectives and nouns in the english language.
