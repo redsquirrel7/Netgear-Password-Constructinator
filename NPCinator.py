@@ -13,7 +13,7 @@
 #                                                                      
 # Generates default wifi passwords for Netgear routers
 #
-# By: Brad Nelson (Squirrel)
+# By: Squ1rr3l
 # Twitter: @redsquirrel_7
 #
 # Adjective and Noun files downloaded from: http://www.ashley-bovan.co.uk/words/partsofspeech.html
